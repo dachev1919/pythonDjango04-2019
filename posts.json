@@ -1,0 +1,80 @@
+[
+  {
+    "title": "My Updated Post",
+    "content": "My first updated post!\r\n\r\nThis is exciting!",
+    "user_id": 6
+  },
+
+   {
+    "title": "A Second Post",
+    "content": "This is a post from a different user...",
+    "user_id": 6
+   },
+
+  {
+    "title": "Top 5 Programming Lanaguages",
+    "content": "Te melius apeirian postulant cum, labitur admodum eos!\r\n\r\nAssum zril disputationi, sed at gloriatur persequeris.",
+    "user_id": 6
+  },
+
+  {
+    "title": "Sublime Text Tips and Tricks",
+    "content": "Ea vix dico modus voluptatibus, mel iudico suavitate iracundia eu. Tincidunt voluptatibus pro eu?",
+    "user_id": 6
+  }, 
+
+  {
+    "title": "Best Python IDEs",
+    "content": "Elit contentiones nam no, sea ut consul adipiscing. Nam reprimique appellantur ne.",
+    "user_id": 6
+  },
+
+  {
+    "title": "Flask vs Django - Which Is Better?",
+    "content": "Ei dicta apeirian deterruisset eam, cu offendit invenire pri, cu possim vivendo vix?",
+    "user_id": 6
+  }, 
+
+  {
+    "title": "You Won't Believe These Clickbait Titles!",
+    "content": "Cu justo honestatis mel, pro ei appareat mediocrem suavitate. Oportere indoctum eam.",
+    "user_id": 6
+  },
+
+  {
+    "title": "These Beers Will Improve Your Programming",
+    "content": "Sanctus senserit vis id, ut eum iuvaret invidunt constituam?",
+    "user_id": 6
+  },
+
+  {
+    "title": "List of PyCon 2018 Talks",
+    "content": "Has ea verear adolescens, Affert populo voluptaria, utinam consul ad duo.",
+    "user_id": 6
+  }, 
+
+  {
+    "title": "How Dogs in the Workplace Boosts Productivity",
+    "content": "Has ea verear adolescens, elit justo constituam duo in, vix an copiosae contentiones.",
+    "user_id": 6
+  },
+
+  {
+    "title": "The Best Programming Podcasts",
+    "content": "Vidisse malorum platonem vel. Quo at animal voluptua instructior.\r\n\r\nMeis voluptatum eu eum.",
+    "user_id": 6
+  },
+
+  {
+    "title": "Tips for Public Speaking",
+    "content": "Ex eam doctus accommodare. Ut oratio vivendo intellegebat qui. Ius ne doming petentium. Pri congue delectus ad, accumsan molestiae disputando te mea. Nam case inani eligendi at, per te esse iudico. Feugiat patrioque mei ad, harum mundi adversarium an per!\r\n\r\nAncillae verterem eleifend his at? Nam vidit iusto petentium at, vis nusquam dissentias cu, etiam doctus adversarium eam no. At alterum definiebas efficiantur eos, pro labitur vituperatoribus ne, eu odio legere vim. Ad nec verear appellantur? Ad qui vulputate persequeris.",
+    "user_id": 6
+  },
+
+  {
+    "title": "Best Programmers Throughout History",
+    "content": "Mel nulla legimus senserit id. Vim purto tractatos in, te vix error regione, erant laudem legere an vel. Falli fierent ius ex! In legere iriure est, id vis prima maluisset, purto numquam inimicus ut eos! In duo antiopam salutatus, an vel quodsi virtute definitiones.\r\n\r\nEst te sumo voluptaria, ius no putant argumentum, alienum ocurreret vim cu? Volumus democritum no vel, virtute commune an est. Vel te propriae lobortis rationibus, no eum odio neglegentur? Duo an sumo ignota latine! Nec mazim aperiam percipitur eu, id his dicit omnium.",
+    "user_id": 6
+  }
+
+]
